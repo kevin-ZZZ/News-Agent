@@ -1,7 +1,88 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-15 08:21
+**最后更新时间**: 2026-05-16 00:02
+
+---
+
+## 🆕 最新更新 (2026-05-16 00:02)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [Kubernetes v1.36 发布：安全默认配置强化，AI 工作负载支持日趋成熟](https://www.infoq.cn/article/kNkrHGzRvA7r6pRtlGB5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 20:00
+
+#### [百度想明白了：旧供给到达极限了](https://www.infoq.cn/article/rDTKqBrlGD5R93NFDOI8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 17:45
+
+#### [“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”](https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 17:42
+
+#### [当AI助手进化为自主智能体：英伟达如何携手 SAP 重构企业级“信任逻辑”？](https://www.infoq.cn/article/wEexICwqpBc5TsScTyiB?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-15 17:15
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [伯希和更名「奔赴自然」递表港交所；伊利首创透明蛋白水5月下旬开售；On昂跑Q1亚太市场增长44.4%；星巴克中国官宣合作周杰伦｜消研所周报](https://www.tmtpost.com/7989927.html)
+**发布时间**: 2026-05-15 19:07
+
+#### [5亿入主仁度生物，海鲸药业举债并购的“类借壳”棋局](https://www.tmtpost.com/7989758.html)
+**发布时间**: 2026-05-15 18:57
+
+#### [烧光230亿，仅交17辆车：贾跃亭凭什么重掌FF大权？](https://www.tmtpost.com/7989892.html)
+**发布时间**: 2026-05-15 18:50
+
+#### [捷邦科技连环并购押注液冷散热，营收狂飙难掩连亏困局 | 并购一线](https://www.tmtpost.com/7989891.html)
+**发布时间**: 2026-05-15 18:44
+
+#### [欣旺达发布逸风超充电池2.0，组建联盟重构电摩补能生态](https://www.tmtpost.com/7989524.html)
+**发布时间**: 2026-05-15 18:42
+
+#### [为什么库克、雷军，都想找马斯克合影？](https://www.tmtpost.com/7988980.html)
+**发布时间**: 2026-05-15 18:21
+
+#### [被礼来反超后，诺和诺德牵手OpenAI](https://www.tmtpost.com/7989694.html)
+**发布时间**: 2026-05-15 18:15
+
+#### [去中国化？还是去中国吧！](https://www.tmtpost.com/7989710.html)
+**发布时间**: 2026-05-15 18:15
+
+#### [一心卖车的蔚来，终于被看懂了](https://www.tmtpost.com/7989657.html)
+**发布时间**: 2026-05-15 17:26
+
+#### [OpenAI Codex进入手机，国产“龙虾”们该醒醒了](https://www.tmtpost.com/7989325.html)
+**发布时间**: 2026-05-15 17:25
+
+#### [FOMO 2026 ：全球创新药大变局，看懂的人还不多](https://www.tmtpost.com/7989359.html)
+**发布时间**: 2026-05-15 17:25
+
+#### [20万的碳酸锂：起点还是终点？下游容忍线在哪？](https://www.tmtpost.com/7988704.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [1032亿！中国创新药又干了一票大的](https://www.tmtpost.com/7989209.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [老年大学里的“银发攀比”，老了也要内卷](https://www.tmtpost.com/7989248.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [宗主国：Anthropic](https://www.tmtpost.com/7989250.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [5个月9个IPO，雷军投出4000亿](https://www.tmtpost.com/7989251.html)
+**发布时间**: 2026-05-15 17:05
+
+#### [她曾掌舵OpenAI技术，如今要颠覆OpenAI的规则](https://www.tmtpost.com/7989252.html)
+**发布时间**: 2026-05-15 17:05
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/109825)
+**发布时间**: 2026-05-15 18:00
+
+#### [装了啥：编辑部用什么转写音视频内容？](https://sspai.com/prime/story/zhuanglesha-260515)
+**发布时间**: 2026-05-15 17:56
+
+#### [\[会员免费\] Apple WWDC26 全球开发者大会，来与少数派一起看](https://sspai.com/post/109816)
+**发布时间**: 2026-05-15 16:59
 
 ---
 
