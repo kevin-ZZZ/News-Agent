@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "7d9d5de89c2c3a3318b52c8d81799318f9832078b3e55ec67310af20972ff7d5": {
-        "title": "AI价格倒挂终结：算力、模型同步涨价，纯应用公司死局",
-        "link": "https://www.tmtpost.com/7957423.html",
-        "published_date": "Fri, 17 Apr 2026 19:50:00 GMT",
-        "first_seen": "2026-04-17T23:43:42.756387"
-      },
-      "274c77ee0062e3004ac49c8a547b1d477a9f687747875e663b8608a27fbebaa7": {
-        "title": "试点走向规模化盈利：生成式 AI 与智能体 AI 的 ROI 兑现路径 ｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/TilQABTIBywUBmxJAFNG?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Apr 2026 19:35:00 GMT",
-        "first_seen": "2026-04-17T23:43:42.756393"
-      },
-      "5904954e0a7250a04ae942665230c91573cc28fba9e90afb0b99d949ae14f330": {
-        "title": "智能体企业架构浮现：数据、模型、系统之外的控制平面｜ 技术趋势",
-        "link": "https://www.infoq.cn/article/q0DODc1eoaE6xWUNA9ZG?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 17 Apr 2026 19:20:00 GMT",
-        "first_seen": "2026-04-17T23:43:42.756395"
-      },
-      "66e350aec56485f90e7e5c427953d357f19a983a238e1d071bbb8d412c976f5e": {
-        "title": "具身智能\"部署态元年\"来了，智元内部研判：具身\"GPT-3 \"进度条已拉升至 30%",
-        "link": "https://www.tmtpost.com/7957537.html",
-        "published_date": "Fri, 17 Apr 2026 18:55:00 GMT",
-        "first_seen": "2026-04-17T23:43:42.756397"
-      },
-      "6c85fd6a94227ec476bf850d59245f5258d8f51660e7f2431a677573877f9ca9": {
-        "title": "世界模型元年启示录：动机、乱战与暗礁",
-        "link": "https://www.tmtpost.com/7956668.html",
-        "published_date": "Fri, 17 Apr 2026 13:30:00 GMT",
-        "first_seen": "2026-04-17T23:43:42.756399"
-      },
       "b5ac250f5952b95a7764c98d8daf8bad48c6fa992cf84640f62c8d869b8b01ab": {
         "title": "谷歌基于Apache 2.0协议开源Gemma 4，搭载多模态与智能体能力",
         "link": "https://www.infoq.cn/article/ry64GrNLAEEf1qdZABb0?utm_source=rss&utm_medium=article",
@@ -3553,39 +3523,21 @@
         "link": "https://www.tmtpost.com/7991069.html",
         "published_date": "Sun, 17 May 2026 15:59:00 GMT",
         "first_seen": "2026-05-17T09:57:46.470411"
+      },
+      "8e77fe15e023ead992c8d9362e0b4e91813ffbc471325480f523e09e67ec5b97": {
+        "title": "【钛晨报】市场监管总局明确34项重点工作，持续护航民营经济发展壮大；无锡将建立一座大规模“Token工厂”；马斯克：不会出售任何SpaceX的股份",
+        "link": "https://www.tmtpost.com/7991267.html",
+        "published_date": "Mon, 18 May 2026 07:20:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.874683"
+      },
+      "9f29b3a535839a9620681ff48d62a1594e72592ea8bd60632594412db2ccf384": {
+        "title": "派早报：提交未经核实 AI 内容的论文作者将被 arXiv 封禁一年",
+        "link": "https://sspai.com/post/109870",
+        "published_date": "Mon, 18 May 2026 06:56:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.874691"
       }
     },
     "Finance": {
-      "866e7397dd96ed29896a8c48db3338e54a0ce40b84d17a2d9907fbd753d96fe1": {
-        "title": "Oil slumps as US and Iran declare Strait of Hormuz open to shipping",
-        "link": "https://www.ft.com/content/bb35fb5a-0df2-427c-8da0-5b55a0cdd97e",
-        "published_date": "Fri, 17 Apr 2026 20:54:00 GMT",
-        "first_seen": "2026-04-17T23:43:14.586037"
-      },
-      "a65da98ef9c0be538ec1d014d4879055a5e602c67dbdca7f9daa5b9b1d0efcca": {
-        "title": "New Social Security proposal would cap payments for wealthy people now — and many more later on",
-        "link": "https://www.marketwatch.com/story/new-social-security-proposal-would-cap-payments-for-wealthy-people-now-and-many-more-later-on-20c926cf?mod=mw_rss_topstories",
-        "published_date": "Fri, 17 Apr 2026 21:35:00 GMT",
-        "first_seen": "2026-04-17T23:43:14.586047"
-      },
-      "3823a7ee1ee805bc02d88b03e8a6d32e3ece88ef2bbbee09c3bfd6408fab7585": {
-        "title": "Nvidia rival Cerebras is taking another swing at an IPO",
-        "link": "https://www.marketwatch.com/story/nvidia-rival-cerebras-is-taking-another-swing-at-an-ipo-057f4deb?mod=mw_rss_topstories",
-        "published_date": "Fri, 17 Apr 2026 21:42:00 GMT",
-        "first_seen": "2026-04-17T23:43:14.586049"
-      },
-      "cba2c231d38746c6160fcc43dc60f8002f468c1d5540154d2552c5f41705c2d7": {
-        "title": "Meta reportedly eyes more layoffs, targeting 10% of staff",
-        "link": "https://www.marketwatch.com/story/meta-reportedly-eyes-more-layoffs-targeting-10-of-staff-c93503b9?mod=mw_rss_topstories",
-        "published_date": "Fri, 17 Apr 2026 21:56:00 GMT",
-        "first_seen": "2026-04-17T23:43:14.586051"
-      },
-      "0e1dfcf1f4925d3cd0b093a84594cdeea8843f23722968d18af2dee30f05e796": {
-        "title": "EU prepares for jet fuel sharing as supplies dwindle",
-        "link": "https://www.ft.com/content/494c1181-7bc3-42f3-b1af-c1dff3f62886",
-        "published_date": "Fri, 17 Apr 2026 14:15:00 GMT",
-        "first_seen": "2026-04-17T23:43:14.586053"
-      },
       "56e6ea33898f58f7cd88a1493bf6d4487a3c33de2515735a63fe14d2158632b1": {
         "title": "The coming global food crisis",
         "link": "https://www.ft.com/content/36343e24-b06f-434d-a7e5-6046e7bcf3df",
@@ -6141,6 +6093,96 @@
         "link": "https://www.ft.com/content/d71e5f18-5703-451a-8e9f-907b02c52c84",
         "published_date": "Sun, 17 May 2026 03:00:00 GMT",
         "first_seen": "2026-05-17T07:40:07.192982"
+      },
+      "b4ac1efd29c4360ff0d12d41efe0611a5b1694ca89c9731653526aeb298c138f": {
+        "title": "Dow futures slip, oil prices push higher as Iran war remains stuck in stalemate",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-slip-oil-prices-push-higher-as-iran-war-remains-stuck-in-stalemate-c3a874a5?mod=mw_rss_topstories",
+        "published_date": "Sun, 17 May 2026 23:37:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797795"
+      },
+      "d095c65e4cb799d3d4b031303f505c1f0b7cfd5787edea3a48141f97e5155d83": {
+        "title": "Health officials declare Ebola outbreak a public health emergency",
+        "link": "https://www.marketwatch.com/story/health-officials-declare-ebola-outbreak-a-public-health-emergency-36fb9a91?mod=mw_rss_topstories",
+        "published_date": "Sun, 17 May 2026 23:02:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797807"
+      },
+      "2b81a929f6aafda642db1daf0e1b7e256f14ab17ddab3506fc54037b0b7471f6": {
+        "title": "Walmart and Target are about to show just how much shopping habits have changed due to the Iran war",
+        "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-show-just-how-much-shopping-habits-have-changed-due-to-the-iran-war-105b34d9?mod=mw_rss_topstories",
+        "published_date": "Sun, 17 May 2026 19:34:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797809"
+      },
+      "db7b480818bc4476046175fd71d2976775ca145fe5cd619454b361870688b10f": {
+        "title": "Nvidia is getting some help as it props up S&P 500 earnings growth",
+        "link": "https://www.marketwatch.com/story/nvidia-is-getting-some-help-as-it-props-up-s-p-500-earnings-growth-1f3a8a52?mod=mw_rss_topstories",
+        "published_date": "Sun, 17 May 2026 19:25:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797811"
+      },
+      "54978618b168e7e668413ac8cbc5076be2ad2f8078d72076daefdf238e444146": {
+        "title": "Your 3–6 months of emergency savings won’t cut it — why the job market now demands an 18-month cash cushion",
+        "link": "https://www.marketwatch.com/story/you-now-need-18-months-of-emergency-savings-because-of-how-much-ai-is-disrupting-the-workforce-86dbac97?mod=mw_rss_topstories",
+        "published_date": "Sun, 17 May 2026 19:08:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797813"
+      },
+      "707b5022ebd44badfaf75cf28bc8671e1026df6a58d36d3c344caa394a95c95f": {
+        "title": "‘I experienced many years of poverty’: I worked until 70. Why do wealthy retirees look down on those with less savings?",
+        "link": "https://www.marketwatch.com/story/i-experienced-many-years-of-poverty-i-dont-judge-other-people-why-do-wealthy-retirees-look-down-on-others-5e3069e6?mod=mw_rss_topstories",
+        "published_date": "Sun, 17 May 2026 18:59:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797815"
+      },
+      "cdb46397d58d88a76222efbff02c7b13fb5f3cdc5aa70177b2aac5b89fec6d75": {
+        "title": "Vox becomes kingmaker as Sánchez suffers defeat in Spanish regional election",
+        "link": "https://www.ft.com/content/be7186e3-4df7-49b8-99bd-d06b1a5383ac",
+        "published_date": "Sun, 17 May 2026 23:02:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797817"
+      },
+      "3e40169d5e3f51a3650d66efcf025df486dbaf34c5e55ab38a02f116b266780c": {
+        "title": "White House says Trump and Xi agreed on ‘board of trade’ at summit",
+        "link": "https://www.ft.com/content/aed42b42-0ca2-4104-848a-c8bca33fd837",
+        "published_date": "Sun, 17 May 2026 21:02:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797818"
+      },
+      "a96b4dac813644869c835bb7027ea14558a2b5b8577da8531f6faaf91f63648d": {
+        "title": "Publicis to buy US data company in $2.2bn deal as it deepens AI marketing push",
+        "link": "https://www.ft.com/content/fa33f1b3-ea8b-474b-9f75-a70536c8d2cb",
+        "published_date": "Sun, 17 May 2026 19:36:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797819"
+      },
+      "9d9ee617dc6d1d755d5dd653fcc302aad2bc7246abffb1a3d456641cf6cd805f": {
+        "title": "Iran energy crisis enters new phase as peak summer season approaches",
+        "link": "https://www.ft.com/content/f636f726-b185-4f6a-91d2-75ea3d1b9beb",
+        "published_date": "Sun, 17 May 2026 17:00:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797821"
+      },
+      "7de187a8269eeaab22a0d0b15c365bcd415c8128aeb47d3577b137cd784baf73": {
+        "title": "The looming energy crunch",
+        "link": "https://www.ft.com/content/08665686-f673-46ca-9dba-fd34e1546e7c",
+        "published_date": "Sun, 17 May 2026 17:00:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797823"
+      },
+      "e7329cffa8f3f3412907953e5dd320b9bf6649c6cc85810839dc73bdca5e89c9": {
+        "title": "UAE says drone strike caused fire at nuclear plant",
+        "link": "https://www.ft.com/content/c4b786a6-55d4-4689-b19e-48a48f7946e6",
+        "published_date": "Sun, 17 May 2026 16:06:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797824"
+      },
+      "a129452e40407fc19286c90829fb7b2eaa76e6c7754a247eb328c24a8632337e": {
+        "title": "The future of America’s military industrial complex",
+        "link": "https://www.ft.com/content/713d7483-0ca6-46ae-b287-c501b5d81644",
+        "published_date": "Sun, 17 May 2026 12:00:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797826"
+      },
+      "871aeef9358122fea940fcfb6b3a9a5e19bbb699b5f7209388a2b1635ee6c690": {
+        "title": "Ukraine’s deadly drone strikes on Moscow ‘entirely justified’, says Zelenskyy",
+        "link": "https://www.ft.com/content/c7e98e0b-90c4-4602-86d7-5a99b1b0b7ab",
+        "published_date": "Sun, 17 May 2026 10:49:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797828"
+      },
+      "0d9770a796d11af82b24d1ce3929779433db9c487df1df5404f0fe48df05df2e": {
+        "title": "Trump’s urge for revenge fuels expensive US primary battle in Kentucky",
+        "link": "https://www.ft.com/content/ede39e87-c489-432c-b5e0-09da19b591dc",
+        "published_date": "Sun, 17 May 2026 10:00:00 GMT",
+        "first_seen": "2026-05-18T00:05:53.797829"
       }
     },
     "Ai": {
@@ -7445,13 +7487,25 @@
         "link": "https://www.qbitai.com/2026/05/418836.html",
         "published_date": "Sun, 17 May 2026 08:55:00 GMT",
         "first_seen": "2026-05-17T09:57:46.597794"
+      },
+      "daf06491b8ca9952dc62d86005af4c23422de317b6cbb3b2fab2e39f601dfaf7": {
+        "title": "一只机器狗，把英伟达的算力王座拱翻了",
+        "link": "https://www.qbitai.com/2026/05/418969.html",
+        "published_date": "Sun, 17 May 2026 15:10:00 GMT",
+        "first_seen": "2026-05-18T00:05:54.028317"
+      },
+      "ee3fea7c8befd0a17eec1adf856c83b7c16f004f4f30528dc310d25b45d59ed6": {
+        "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
+        "link": "https://www.qbitai.com/2026/05/418964.html",
+        "published_date": "Sun, 17 May 2026 10:21:00 GMT",
+        "first_seen": "2026-05-18T00:05:54.028325"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-05-17T09:57:46.470413",
-    "Finance": "2026-05-17T07:40:07.192983",
-    "Ai": "2026-05-17T09:57:46.597803"
+    "Technology": "2026-05-18T00:05:53.874694",
+    "Finance": "2026-05-18T00:05:53.797831",
+    "Ai": "2026-05-18T00:05:54.028328"
   }
 }
