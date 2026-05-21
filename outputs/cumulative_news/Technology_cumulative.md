@@ -1,7 +1,129 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-20 00:15
+**最后更新时间**: 2026-05-21 00:16
+
+---
+
+## 🆕 最新更新 (2026-05-21 00:16)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [AI Agent 最大的问题：它在企业里只是个“无名之辈” ｜ 技术趋势](https://www.infoq.cn/article/KMlTCRBIWmlaZLSWks6A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-21 08:00
+
+#### [Cloudflare 推出支持确定性执行和 5 万个并发工作流的 Workflows V2](https://www.infoq.cn/article/6wOv9VbhvJ7D3tJAQHJH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 20:00
+
+#### [对话灵感实验室：全帧率 VLM、低成本与分层部署，业务现场不止需要炫技模型](https://www.infoq.cn/article/7J14Dd3UkwkYoHVjkM9P?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 19:06
+
+#### [10 天 3000 元，一人造出全球 AI 爆款！好莱坞导演抢人、游戏版引爆期待，合作细节首次披露](https://www.infoq.cn/article/srgOzGfGgMQiEdum2GhZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 18:17
+
+#### [Anthropic 推出 Routines for Claude Code](https://www.infoq.cn/article/pqiTGU8VMOZ1fOZh8H98?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 18:00
+
+#### [Snowflake Intelligence 合作伙伴生态：把 AI 能力带入千行百业 ｜技术趋势](https://www.infoq.cn/article/PYoRlEUWJZJvkCCXTF1D?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 16:48
+
+#### [一个隐蔽的循环依赖如何导致了 Discord 3 月份的语音服务中断](https://www.infoq.cn/article/vBxsf5ZXBoSiKbT7HqpC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 15:15
+
+#### [Arm 携手通义实验室，发起手机上的创意 AI 挑战赛](https://www.infoq.cn/article/LwYB2c8t1g9yrhp07kZW?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 15:05
+
+#### [基准测试表明：AI智能体可修复独立漏洞，却难以理解系统范围影响](https://www.infoq.cn/article/mV5rKKvyYP3OvbxJ4boL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 12:52
+
+#### [CIO 正在抛弃 AI 生码率：一场关于什么才算产研提效的实践复盘](https://www.infoq.cn/article/BWbN5pKPLw3zSfHRj0P1?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 12:41
+
+#### [外行式 Vibe Coding 正跟专业的Agent 工程走向融合：最吓人的是，我们“摆烂”有正当理由了？](https://www.infoq.cn/article/uLLYdtZdZu9sCQSyUcst?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 11:45
+
+#### [不换 Kimi 底座，1/10 成本追平 Opus 4.7？Cursor 用 Composer 2.5 反击 Claude Code](https://www.infoq.cn/article/WHlyjD6dQgPYxmcXWFzO?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 11:38
+
+#### [Snowflake Intelligence：从回答问题到执行任务的个人工作 Agent ｜ 技术趋势](https://www.infoq.cn/article/V6ih0gWeKev3Cba6jaFl?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 11:16
+
+#### [SolidJS 2.0 Beta：一级异步支持、重构的Suspense与确定性批处理](https://www.infoq.cn/article/zghzlOJDok66vqskki6o?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 11:00
+
+#### [训推一体潮汐弹性：蚂蚁集团在智算基础设施的池化调度实践｜AICon上海](https://www.infoq.cn/article/4vGULVYou52z6TfGF3r5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 10:00
+
+#### [如何在软件组织中扩展社会化的系统](https://www.infoq.cn/article/pbbEkUcqzHdLXb7VwrBE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-20 09:26
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI 协作重磅突破！斯坦福英伟达联手消除AI沟通内耗，推理速度暴涨 2.4 倍](https://www.tmtpost.com/7992618.html)
+**发布时间**: 2026-05-21 07:54
+
+#### [Edge AI Daily 早报（5月21日）](https://www.tmtpost.com/7996515.html)
+**发布时间**: 2026-05-21 07:43
+
+#### [【钛晨报】时隔一个月，郑栅洁再与民企座谈：加强民营经济领域重大问题研究和政策储备；三星电子工会已推迟罢工；深圳低空空域松绑，120米以下大范围开放](https://www.tmtpost.com/7996324.html)
+**发布时间**: 2026-05-21 07:20
+
+#### [储能“熄火”，钙钛矿“吞金”，杭州柯林3亿豪赌亏损机器人标的 | 并购一线](https://www.tmtpost.com/7996303.html)
+**发布时间**: 2026-05-20 21:38
+
+#### [The Token Do-or-Die Line: Financial AI Companies Scramble to Cut Costs](https://www.tmtpost.com/7996225.html)
+**发布时间**: 2026-05-20 20:27
+
+#### [618打了这么多年，今年京东终于换了张底牌](https://www.tmtpost.com/7995553.html)
+**发布时间**: 2026-05-20 19:54
+
+#### [7000万揽入资不抵债标的，达瑞电子7倍溢价切入热管理赛道 | 并购一线](https://www.tmtpost.com/7996133.html)
+**发布时间**: 2026-05-20 18:57
+
+#### [富足的腾讯与饥饿的百度：BT的AI远虑近忧](https://www.tmtpost.com/7993880.html)
+**发布时间**: 2026-05-20 18:14
+
+#### [瓶装咖啡暗战汹涌：东鹏、瑞幸环伺，星巴克守擂](https://www.tmtpost.com/7995637.html)
+**发布时间**: 2026-05-20 18:14
+
+#### [阿里云能否重写自己？](https://www.tmtpost.com/7995818.html)
+**发布时间**: 2026-05-20 18:13
+
+#### [字节凭什么又牛了？](https://www.tmtpost.com/7991092.html)
+**发布时间**: 2026-05-20 18:09
+
+#### [卧底GEO完结：别骂了，问题不在技术，在人心](https://www.tmtpost.com/7991089.html)
+**发布时间**: 2026-05-20 18:09
+
+#### [GEO行业数据造假手册：一个卧底交付员的自述](https://www.tmtpost.com/7991085.html)
+**发布时间**: 2026-05-20 18:09
+
+#### [传统媒体，被低估的重资产](https://www.tmtpost.com/7995646.html)
+**发布时间**: 2026-05-20 18:08
+
+#### [2026Q1 BD交易爆发，单季交易额614亿美元已超2024全年](https://www.tmtpost.com/7995629.html)
+**发布时间**: 2026-05-20 18:06
+
+#### [抢不到的体制内酒店，被年轻人住成“顶流”](https://www.tmtpost.com/7995738.html)
+**发布时间**: 2026-05-20 18:06
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [当 AI 成为角色：漫谈我的 SillyTavern 使用经验](https://sspai.com/post/109869)
+**发布时间**: 2026-05-20 17:04
+
+#### [4 月音乐精选：听这 8 张美妙的专辑迎接夏天](https://sspai.com/post/109418)
+**发布时间**: 2026-05-20 15:05
+
+#### [自动补全生僻字，让 Kindle 从底层告别小方块](https://sspai.com/post/109625)
+**发布时间**: 2026-05-20 11:00
+
+#### [派早报：Google 发布多项 Gemini 产品更新等](https://sspai.com/post/109945)
+**发布时间**: 2026-05-20 08:59
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [Karpathy 加入 Anthropic 了，盘点他开源的 5 个硬核 GitHub 项目。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533852&idx=1&sn=441378ed031a16a340915fb7c7d69cc6)
+**发布时间**: 2026-05-20 13:20
 
 ---
 
