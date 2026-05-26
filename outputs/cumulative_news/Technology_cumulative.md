@@ -1,7 +1,141 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-05-25 00:10
+**最后更新时间**: 2026-05-26 00:15
+
+---
+
+## 🆕 最新更新 (2026-05-26 00:15)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [微软将弃用Claude：太贵了还是薅明白了？](https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-26 08:00
+
+#### [平台工程如何利用“黄金砖块”实现快速、顺畅的交付](https://www.infoq.cn/article/7kRNbfNHJmyeVikxo5x4?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 19:00
+
+#### [Bintrail：利用索引二进制日志实现 MySQL 时间旅行查询](https://www.infoq.cn/article/78T9QsuOzWscUxadORto?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 17:41
+
+#### [Oracle XStream 技术揭秘：高吞吐 OLTP 场景下的 CDC 影响评估 ｜ 技术实践](https://www.infoq.cn/article/DtaVGoWfNdLOmI7lDJ2A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 16:00
+
+#### [ClickHouse实战：Agentic Coding，是“神”还是“坑”？](https://www.infoq.cn/article/OLEDsNifw48YdleTAZDg?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 15:46
+
+#### [借助 Android CLI，谷歌正让 Android 工具链更便于代理使用](https://www.infoq.cn/article/UAYjt4mXTI5oSGg46LLL?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 15:36
+
+#### [从 AI 试点到 AI 运营：零售与制造业领导者如何让 Agentic AI 真正落地 ｜ 技术趋势](https://www.infoq.cn/article/mcKvzoaxMjgAvjrxobyC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 14:53
+
+#### [45家机器人厂商背后都是它！天机智能完成10亿元融资，估值奔百亿了](https://www.infoq.cn/article/0b36NHPQpYbf7586O1sJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 14:31
+
+#### [OpenTofu 1.12发布，带来 Terraform 从未提供的功能](https://www.infoq.cn/article/Sy34O3thhIMhk7SGIEpY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 13:16
+
+#### [Copilot 创始工程师：大多数 AI 编码“就像开着法拉利去买牛奶一样”](https://www.infoq.cn/article/e17xvwLZf8rQrArWAFR6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 11:25
+
+#### [人工智能无法加速软件交付](https://www.infoq.cn/article/VvvDVygBzh1uKHT2MXH7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 11:19
+
+#### [C++之父开撕AI Coding：资深开发者宁愿退休也不愿伺候AI生成的代码](https://www.infoq.cn/article/51fCFjwWFtJBDh04sLVQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 11:07
+
+#### [Java近期资讯：OpenJDK JEP、Azul Payara、WildFly、LangChain4j、OpenXava和Google ADK](https://www.infoq.cn/article/8OGPj2DjpStwF4U4t99T?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 11:02
+
+#### [模型之外，皆属Harness！DeepSeek终于出手：招人、组队、从零造一个中国版Claude Code](https://www.infoq.cn/article/zqYChrE48RgRbWTX7vhT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 10:51
+
+#### [AI时代数据面临的新挑战和解决之道｜AICon上海](https://www.infoq.cn/article/AKcxjxPAG42yek1t4idI?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 10:00
+
+#### [数字银行Monzo在100个团队与12000个dbt模型之上构建可治理的数据网格](https://www.infoq.cn/article/YU4mWJE1mjgMbXENcQwC?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-05-25 09:17
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [一张GPU订单的“左右互搏”，两家上市公司的“双向奔赴”| 钛媒体深度](https://www.tmtpost.com/8001599.html)
+**发布时间**: 2026-05-26 08:00
+
+#### [Edge AI Daily 早报（5月26日）](https://www.tmtpost.com/8001886.html)
+**发布时间**: 2026-05-26 07:45
+
+#### [【钛晨报】实名购药、严禁AI替代审方，《处方药网络零售合规指南》发布；华为发表半导体韬定律；6G试验频率正式获批，6G有望在2030年前后正式商用](https://www.tmtpost.com/8001772.html)
+**发布时间**: 2026-05-26 07:20
+
+#### [宇树科技IPO倒计时，9000万撑起的帝国，还差一个“大脑”](https://www.tmtpost.com/8001758.html)
+**发布时间**: 2026-05-25 22:09
+
+#### [割肉福兆、苦候30亿补偿款：华映科技的“止血”与“输血”困局](https://www.tmtpost.com/8001786.html)
+**发布时间**: 2026-05-25 21:55
+
+#### [扣非连亏、主业承压，杰美特追加2.35亿控股戴尔蒙德跨界新材料 | 并购一线](https://www.tmtpost.com/8001728.html)
+**发布时间**: 2026-05-25 21:11
+
+#### [阿里巴巴重新做云的决心，还是被低估了](https://www.tmtpost.com/8000812.html)
+**发布时间**: 2026-05-25 20:02
+
+#### [大模型公司门口，挤满了送钱的投资人](https://www.tmtpost.com/8001392.html)
+**发布时间**: 2026-05-25 19:38
+
+#### [上市4年连亏2年，百诚医药破发阴影下觅新主](https://www.tmtpost.com/8001538.html)
+**发布时间**: 2026-05-25 19:30
+
+#### [全球Token，短缺了](https://www.tmtpost.com/8001378.html)
+**发布时间**: 2026-05-25 19:23
+
+#### [20岁透支、60岁退保，韩国人借钱狂买三星](https://www.tmtpost.com/8001441.html)
+**发布时间**: 2026-05-25 19:23
+
+#### [谷歌对“AI投毒”重拳出击](https://www.tmtpost.com/8001413.html)
+**发布时间**: 2026-05-25 19:23
+
+#### [Token五年增长370倍：谁在给AI公司“印钞机”充值？](https://www.tmtpost.com/8001369.html)
+**发布时间**: 2026-05-25 19:22
+
+#### [AI 芯片的"电力革命"](https://www.tmtpost.com/8001434.html)
+**发布时间**: 2026-05-25 19:22
+
+#### [从云深处IPO，看一家“不性感”的机器狗公司凭什么值139亿？](https://www.tmtpost.com/8001475.html)
+**发布时间**: 2026-05-25 19:22
+
+#### [越贵越火？神经外科集采走出不一样的剧本](https://www.tmtpost.com/8001476.html)
+**发布时间**: 2026-05-25 19:22
+
+#### [马斯克的科技树，跑赢了一个G7国家](https://www.tmtpost.com/8001438.html)
+**发布时间**: 2026-05-25 19:22
+
+#### [从希腊酸奶到超滤鲜奶，吾岛为何入局高蛋白红海？](https://www.tmtpost.com/7988093.html)
+**发布时间**: 2026-05-25 17:33
+
+#### [DeepSeek永久降价，其实是瞄准了10万亿美元？](https://www.tmtpost.com/8001333.html)
+**发布时间**: 2026-05-25 15:51
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [派早报：OPPO 与荣耀发布多款新品，华为发表半导体领域新定律等](https://sspai.com/post/110171)
+**发布时间**: 2026-05-26 07:07
+
+#### [派评 | 近期值得关注的 App](https://sspai.com/post/110156)
+**发布时间**: 2026-05-25 18:00
+
+#### [无障碍可感知，有爱亦无碍：藏在日常里的 Apple 辅助功能](https://sspai.com/post/110144)
+**发布时间**: 2026-05-25 16:02
+
+#### [被忙碌与焦虑裹挟时，学会「停下」比「开始」更重要](https://sspai.com/post/81257)
+**发布时间**: 2026-05-25 14:37
+
+#### [五年陪伴依然不舍，DIY 换壳后让罗技 MX Master 3 继续服役](https://sspai.com/post/109450)
+**发布时间**: 2026-05-25 11:23
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [让你的 Claude Code 满血复活，Anthropic 在 GitHub 上开源了个插件。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533995&idx=1&sn=b91dec98b97f0cd58f89f7cd3a6f68b2)
+**发布时间**: 2026-05-25 13:02
 
 ---
 
