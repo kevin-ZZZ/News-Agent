@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-06-04 08:56
+**最后更新时间**: 2026-06-05 00:46
+
+---
+
+## 🆕 最新更新 (2026-06-05 00:46)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Towards passive heart health monitoring via smartphone camera](https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/)
+**发布时间**: 2026-06-04 19:47
 
 ---
 

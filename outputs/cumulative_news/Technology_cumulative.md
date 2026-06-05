@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-04 08:57
+**最后更新时间**: 2026-06-05 00:50
+
+---
+
+## 🆕 最新更新 (2026-06-05 00:50)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [AI芯片的下一个五年：晶圆还圆吗？](https://www.tmtpost.com/8015238.html)
+**发布时间**: 2026-06-05 08:36
+
+#### [人形机器人进场以后，谁来吞下失败成本？](https://www.tmtpost.com/8015233.html)
+**发布时间**: 2026-06-05 08:34
+
+#### [煤电协同提速，兖矿能源164亿落子新能源](https://www.tmtpost.com/8015079.html)
+**发布时间**: 2026-06-05 08:31
+
+#### [市值暴涨逾1300%，一家三期临床失败的药企如何“死里逃生”？](https://www.tmtpost.com/8014789.html)
+**发布时间**: 2026-06-05 08:31
+
+#### [他们想靠AI短剧换个活法](https://www.tmtpost.com/8015264.html)
+**发布时间**: 2026-06-05 08:18
+
+#### [背KPI上岗：数字员工成“最优”打工人？](https://www.tmtpost.com/8015246.html)
+**发布时间**: 2026-06-05 08:18
+
+#### [Edge AI Daily 早报（6月5日）](https://www.tmtpost.com/8015628.html)
+**发布时间**: 2026-06-05 08:18
+
+#### [光伏巨头们的储能生意，为什么都做得很艰难？](https://www.tmtpost.com/8015242.html)
+**发布时间**: 2026-06-05 08:09
+
+#### [基金市场概况与资产配置观点（2026.05.25—2026.05.31）](https://www.tmtpost.com/8015661.html)
+**发布时间**: 2026-06-05 07:39
+
+#### [上市公司TOP5济安评估（5月25日至5月31日）｜上市公司观察](https://www.tmtpost.com/8015650.html)
+**发布时间**: 2026-06-05 07:38
+
+#### [价值判断：跌停板的投资机会和风险提示（6月3日）｜证券市场观察](https://www.tmtpost.com/8015643.html)
+**发布时间**: 2026-06-05 07:38
+
+#### [价值判断：涨停板的投资机会和风险提示（6月3日）｜证券市场观察](https://www.tmtpost.com/8015639.html)
+**发布时间**: 2026-06-05 07:38
+
+#### [【钛晨报】6G创新发展部省协同试点专项行动将启动；微信回应与华为小米等合作；SpaceX已启动IPO路演，预计每股价格为135美元](https://www.tmtpost.com/8015431.html)
+**发布时间**: 2026-06-05 07:20
+
+#### [回顾股票推荐：凯悦酒店、Sensient Technologies、Harmony Biosciences](https://www.tmtpost.com/8015369.html)
+**发布时间**: 2026-06-04 20:12
+
+#### [人工智能正在让富人更富，华尔街也是如此](https://www.tmtpost.com/8015361.html)
+**发布时间**: 2026-06-04 20:11
+
+#### [罗曼股份业务重构进行时，2.93亿定增持续加码算力业务](https://www.tmtpost.com/8015174.html)
+**发布时间**: 2026-06-04 19:33
+
+#### [大厂AI的三笔糊涂账](https://www.tmtpost.com/8014637.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [当“技术极客”戴上流量的帽子](https://www.tmtpost.com/8014166.html)
+**发布时间**: 2026-06-04 19:20
+
+#### [腾讯算生态、宁德算电表：DeepSeek 融资暗藏双重算盘](https://www.tmtpost.com/8014147.html)
+**发布时间**: 2026-06-04 19:20
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [新玩意 243｜少数派的编辑们最近买了啥？](https://sspai.com/post/110736)
+**发布时间**: 2026-06-04 19:15
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [凌晨 3 点数据库 P0，AI Agent 是怎么自己修好的？](https://www.infoq.cn/video/7yCbAPpT1xWSJPBfDLIJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 18:51
+
+#### [AI开始进入材料实验室：一家中国公司尝试让高分子研发从“经验驱动”走向“智能协同”](https://www.infoq.cn/article/txk0mfmRmzThahlINCZZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 18:44
+
+#### [3 个维度说清楚，工具型产品如何成为 AI 原生产品](https://www.infoq.cn/video/Cive5P8EQzbhJqFiruWZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 17:57
+
+#### [别把懂语义和查事实混为一谈：企业级 Agent 真正缺的是什么？](https://www.infoq.cn/article/wFkobVelA7W4PRZw9BOd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 17:56
+
+#### [刚刚，这款国产模型登顶 Artificial Analysis 输出速度榜榜首](https://www.infoq.cn/article/LxqvV7TqKRi72MksLTd9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 17:52
+
+#### [数据库告警看不懂？DBbrain 内核级诊断，秒出根因](https://www.infoq.cn/video/LhHiqfEGRFMwlQKPHQ76?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 17:40
+
+#### [OpenAI CFO 首次详解公司战略：B端C端收入五五开、抢 IPO 第一名没意义，今年拿出神秘AI硬件](https://www.infoq.cn/article/BRvoqUKZgRrl5Xt9ooyJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-06-04 17:33
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [腾讯开源了 Agent Memory，让 AI  真正记住你。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534267&idx=1&sn=cc92df3cbc59e8ec0b3e8affb37e222e)
+**发布时间**: 2026-06-04 12:07
 
 ---
 
