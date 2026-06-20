@@ -1,7 +1,31 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-06-19 09:50
+**最后更新时间**: 2026-06-20 00:19
+
+---
+
+## 🆕 最新更新 (2026-06-20 00:19)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [我们选中的Pinterest股票表现一直不佳，但先别放弃](https://www.tmtpost.com/8034742.html)
+**发布时间**: 2026-06-20 06:20
+
+#### [Manus回购方案浮出水面：中国投资方拟掏20亿美元买回股权，赴港IPO路径渐明](https://www.tmtpost.com/8033803.html)
+**发布时间**: 2026-06-19 18:14
+
+#### [电子布大考：十家公司，十种命](https://www.tmtpost.com/8033498.html)
+**发布时间**: 2026-06-19 18:14
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/111216)
+**发布时间**: 2026-06-19 17:30
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [一个跑在 Claude Code 之上的元调度层，这个 GitHub 项目有趣。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247534647&idx=1&sn=b6ba158e574eb2a32d11f3cabb1fa46f)
+**发布时间**: 2026-06-19 13:52
 
 ---
 
