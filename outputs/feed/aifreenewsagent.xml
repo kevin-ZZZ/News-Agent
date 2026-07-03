@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 02 Jul 2026 00:16:00 GMT</pubDate>
-    <lastBuildDate>Thu, 02 Jul 2026 00:19:18 GMT</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 00:14:00 GMT</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:16:52 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,19 +14,91 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了</title>
-      <link>https://www.qbitai.com/2026/07/441396.html</link>
-      <description>&lt;![CDATA[具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 09:33:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441396.html</guid>
+      <title>让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施</title>
+      <link>https://www.qbitai.com/2026/07/442134.html</link>
+      <description>&lt;![CDATA[让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 11:28:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442134.html</guid>
       <category>Ai</category>
     </item>
     <item>
-      <title>OceanBase湖库一体，重新定义AI数据库</title>
-      <link>https://www.qbitai.com/2026/07/441386.html</link>
-      <description>&lt;![CDATA[OceanBase湖库一体，重新定义AI数据库]]&gt;</description>
-      <pubDate>Wed, 01 Jul 2026 09:05:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441386.html</guid>
+      <title>全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货</title>
+      <link>https://www.qbitai.com/2026/07/442047.html</link>
+      <description>&lt;![CDATA[全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 10:56:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442047.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>科大讯飞举办智能交互生态发布会，三大平台同步升级</title>
+      <link>https://www.qbitai.com/2026/07/442048.html</link>
+      <description>&lt;![CDATA[科大讯飞举办智能交互生态发布会，三大平台同步升级]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 10:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442048.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭</title>
+      <link>https://www.qbitai.com/2026/07/442037.html</link>
+      <description>&lt;![CDATA[论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 10:29:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442037.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊</title>
+      <link>https://www.qbitai.com/2026/07/442030.html</link>
+      <description>&lt;![CDATA[天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 10:24:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442030.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>钉钉A1录音卡入选Gartner AI可穿戴设备报告</title>
+      <link>https://www.qbitai.com/2026/07/442024.html</link>
+      <description>&lt;![CDATA[钉钉A1录音卡入选Gartner AI可穿戴设备报告]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 08:03:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442024.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>招募｜量子位RSS’26专题策划</title>
+      <link>https://www.qbitai.com/2026/07/442016.html</link>
+      <description>&lt;![CDATA[招募｜量子位RSS’26专题策划]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 07:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/442016.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>一个广告营销老炮，率先冲刺A股无人驾驶第一股</title>
+      <link>https://www.qbitai.com/2026/07/441790.html</link>
+      <description>&lt;![CDATA[一个广告营销老炮，率先冲刺A股无人驾驶第一股]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 07:16:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441790.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进</title>
+      <link>https://www.qbitai.com/2026/07/441786.html</link>
+      <description>&lt;![CDATA[天工AI业务ARR突破8亿美元，向中国首个非BAT10亿美元ARR的AI公司迈进]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 06:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441786.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>训练世界模型，开始从人类的肌肉和脑子里偷师了</title>
+      <link>https://www.qbitai.com/2026/07/441725.html</link>
+      <description>&lt;![CDATA[训练世界模型，开始从人类的肌肉和脑子里偷师了]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 05:44:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/441725.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>2026-07-02日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-02/</link>
+      <description>&lt;![CDATA[2026-07-02日刊]]&gt;</description>
+      <pubDate>Thu, 02 Jul 2026 10:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-02/</guid>
       <category>Ai</category>
     </item>
   </channel>
