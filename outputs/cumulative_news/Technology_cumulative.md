@@ -1,7 +1,81 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-10 08:29
+**最后更新时间**: 2026-07-11 07:18
+
+---
+
+## 🆕 最新更新 (2026-07-11 07:18)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [蜜雪冰城出海，第一次踩下刹车](https://www.tmtpost.com/8060479.html)
+**发布时间**: 2026-07-11 12:53
+
+#### [跨界储能，为何有的吃苦有的吃糖](https://www.tmtpost.com/8060488.html)
+**发布时间**: 2026-07-11 12:47
+
+#### [极端天气“常态化”下，能源系统如何守住“最后一道闸”？储能或将成为未来灾害下的应急兜底手段](https://www.tmtpost.com/8060976.html)
+**发布时间**: 2026-07-11 12:31
+
+#### [Netflix迎来估值大考](https://www.tmtpost.com/8061013.html)
+**发布时间**: 2026-07-11 12:28
+
+#### [青海、山西落地“114号文”容量电价细则，当储能拿到“底薪”之后，有人欢喜有人愁](https://www.tmtpost.com/8060979.html)
+**发布时间**: 2026-07-11 12:22
+
+#### [两个人、两个月，卖出1500万份，独立游戏盯上了“朋友生意”](https://www.tmtpost.com/8060974.html)
+**发布时间**: 2026-07-11 12:14
+
+#### [一个小红书前员工的“复仇”](https://www.tmtpost.com/8060947.html)
+**发布时间**: 2026-07-11 12:08
+
+#### [成立14年首度举牌，富德产险跃升亚康股份第二大股东](https://www.tmtpost.com/8060636.html)
+**发布时间**: 2026-07-11 12:02
+
+#### [主业没花头，但做股价有花样，胶膜企业们究竟多会“整活”？](https://www.tmtpost.com/8060635.html)
+**发布时间**: 2026-07-11 12:02
+
+#### [一个月两次花38亿买楼，段永平还看得懂拼多多吗？](https://www.tmtpost.com/8060867.html)
+**发布时间**: 2026-07-11 11:52
+
+#### [海力士，逃离韩国](https://www.tmtpost.com/8060878.html)
+**发布时间**: 2026-07-11 11:52
+
+#### [中国的自有品牌，更像供应链故事，而非渠道故事](https://www.tmtpost.com/8060582.html)
+**发布时间**: 2026-07-11 10:43
+
+#### [赴美双重上市，途虎真正的考题不在华尔街](https://www.tmtpost.com/8060567.html)
+**发布时间**: 2026-07-11 10:37
+
+#### [温州“烂尾楼富豪”，摊上事儿了？](https://www.tmtpost.com/8060563.html)
+**发布时间**: 2026-07-11 10:30
+
+#### [空调火到欧洲，但美的的全球化还差一口气](https://www.tmtpost.com/8060554.html)
+**发布时间**: 2026-07-11 10:25
+
+#### [“祸从口出”的粉笔创始人，“撂挑子”不干了](https://www.tmtpost.com/8060551.html)
+**发布时间**: 2026-07-11 10:16
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [从 HAMi 到 HAMi-DRA：异构环境的算力资源管理实践｜AICon深圳](https://www.infoq.cn/article/fRMquPuKMsj6zkyFmO6P?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-11 10:00
+
+#### [Airbnb 分享 Kubernetes 动态配置 Sidecar Sitar-agent 的架构](https://www.infoq.cn/article/fO5byVPuZwwlBPosijBV?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-11 09:00
+
+#### [AI时代最被低估的创业资本，不是技术，是你的“老本行”](https://www.infoq.cn/article/KAweBbBoUV2ufYlocaul?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-10 17:49
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 8 部作品](https://sspai.com/post/112169)
+**发布时间**: 2026-07-10 17:44
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上 5 个小众但实用的开源项目，感兴趣收藏一波。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535243&idx=1&sn=ed9981454a0e7d63e1b6a837c06324f7)
+**发布时间**: 2026-07-10 11:02
 
 ---
 
