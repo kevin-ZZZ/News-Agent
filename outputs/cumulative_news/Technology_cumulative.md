@@ -1,7 +1,57 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-14 07:18
+**最后更新时间**: 2026-07-14 10:08
+
+---
+
+## 🆕 最新更新 (2026-07-14 10:08)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [随时随地构建：CoCo 现已进入你的桌面、手机与 Slack ｜ 技术趋势](https://www.infoq.cn/article/GDIRmc9ZvzZVT7bWVPCz?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 18:01
+
+#### [Agentic Enterprise：Snowflake AI 如何重新定义工作 ｜ Summit 2026](https://www.infoq.cn/video/7hqd5Z9AFMA6h9mtcrtA?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 16:43
+
+#### [用 Claude 重写 SQL 解析器，性能暴涨 70 倍：程序员做的不是写代码，而是搭建验证闭环](https://www.infoq.cn/article/kyteEZN46mi8l0eMiKuh?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 16:25
+
+#### [快手 AB 场景提速 145 倍，从 Spark 到 Apache Doris 的加速实践](https://www.infoq.cn/article/SEXa3rsGTsStXM7lV7al?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 16:18
+
+#### [AlloyDB 推出代理模型，用数据库本地推理替代外部大模型调用](https://www.infoq.cn/article/9RKrYlX2xWPNabO3ErVj?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-14 16:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [Miniso Terminates Influencer Contracts, Overhauls Ad Reviews After Domestic Backlash](https://www.tmtpost.com/8064438.html)
+**发布时间**: 2026-07-14 17:47
+
+#### [全球60%！这拨中国企业，又把美国给干慌了](https://www.tmtpost.com/8064105.html)
+**发布时间**: 2026-07-14 17:22
+
+#### [同样解禁，智谱和MiniMax股价为何走出冰火两重天？](https://www.tmtpost.com/8064017.html)
+**发布时间**: 2026-07-14 17:08
+
+#### [重估老铺黄金：风物长宜放眼量](https://www.tmtpost.com/8064117.html)
+**发布时间**: 2026-07-14 17:08
+
+#### [苹果诉OpenAI：一场400人“搬家”引发的硬件主权战争](https://www.tmtpost.com/8061734.html)
+**发布时间**: 2026-07-14 17:08
+
+#### [国产算力“出息了”，国内首个全国产十万卡集群落地](https://www.tmtpost.com/8064226.html)
+**发布时间**: 2026-07-14 15:54
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [具透 | iOS 27 首个公开测试版来了，这些是值得你关注的新功能](https://sspai.com/post/112287)
+**发布时间**: 2026-07-14 15:00
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这个 Skill 让 Claude Code 看懂视频，还挺实用的。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535343&idx=1&sn=5c13d73a81e83427597b51786885aa1f)
+**发布时间**: 2026-07-14 14:32
 
 ---
 
