@@ -1,7 +1,65 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-15 00:01
+**最后更新时间**: 2026-07-15 13:22
+
+---
+
+## 🆕 最新更新 (2026-07-15 13:22)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump](https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 13:12
+
+#### [This Wall Street ‘theme-o-meter’ has a clear message: The artificial-intelligence bull market is back](https://www.marketwatch.com/story/this-wall-street-theme-o-meter-has-a-clear-message-the-artificial-intelligence-bull-market-is-back-50f18755?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 13:08
+
+#### [Your Netflix bill is up 29% in just over a year. It’s time for Washington to step in.](https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 13:05
+
+#### [Wholesale prices show first drop in almost a year on lower gas prices, but inflation still too high](https://www.marketwatch.com/story/wholesale-inflation-posts-first-drop-in-almost-a-year-as-gas-prices-decline-2ecee6e9?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 12:35
+
+#### [BlackRock profits jump as assets under management hit a record $15 trillion](https://www.marketwatch.com/story/blackrock-profits-jump-as-assets-under-management-hit-a-record-15-trillion-8e6fd54b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 12:19
+
+#### [SpaceX ushered in a ‘new era’ for investing in space. Why the stock is now cratering.](https://www.marketwatch.com/story/spacex-ushered-in-a-new-era-for-investing-in-space-why-the-stock-is-now-cratering-3ccf541e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 11:58
+
+#### [Netflix earnings are coming. Here’s what’s needed to prop up the tumbling stock.](https://www.marketwatch.com/story/netflix-earnings-are-coming-heres-whats-needed-to-prop-up-the-tumbling-stock-0f9371f9?mod=mw_rss_topstories)
+**发布时间**: 2026-07-15 11:36
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Oil traders warn market is close to running on empty as Hormuz shuts again](https://www.ft.com/content/6c314457-ce9a-4689-b3e1-ff637de0d6bf)
+**发布时间**: 2026-07-15 13:02
+
+#### [Morgan Stanley wealth management boosted by SpaceX millionaires](https://www.ft.com/content/fff726e3-42df-4525-bb8e-278254932a48)
+**发布时间**: 2026-07-15 11:43
+
+#### [Buffett describes Gates’s relationship with Epstein as ‘distasteful’](https://www.ft.com/content/5a4ec9c3-e729-4e4b-892f-43e568402f26)
+**发布时间**: 2026-07-15 11:33
+
+#### [BlackRock assets rise to record $15.3tn](https://www.ft.com/content/ea81b3ad-8154-421b-aeae-01407877f548)
+**发布时间**: 2026-07-15 10:10
+
+#### [Stripe and Advent make $53bn bid for PayPal](https://www.ft.com/content/3738e814-9470-4d7d-94a6-ac5e001a968e)
+**发布时间**: 2026-07-15 05:54
+
+#### [China’s economy grows at one of lowest rates in decades](https://www.ft.com/content/5b12e491-dcd0-4e0c-a464-96ec37b737ab)
+**发布时间**: 2026-07-15 05:53
+
+#### [The new great game on minerals](https://www.ft.com/content/a5018a00-0f96-4b39-b82f-c4ccd5e929f7)
+**发布时间**: 2026-07-15 04:00
+
+#### [Is the US or Europe better off?](https://www.ft.com/content/b77cec48-87e2-4bef-b18c-0f9f6718b11c)
+**发布时间**: 2026-07-15 04:00
+
+#### [Trump is driving another nail into the coffin of US science](https://www.ft.com/content/e003b372-f811-46f0-9960-337d1f3cc9dd)
+**发布时间**: 2026-07-15 04:00
+
+#### [Trump’s return to war with Iran offers no clear path to victory](https://www.ft.com/content/7a993639-28aa-442a-8ea6-2abaa695b698)
+**发布时间**: 2026-07-15 02:32
 
 ---
 

@@ -1,7 +1,102 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-15 00:01
+**最后更新时间**: 2026-07-15 13:22
+
+---
+
+## 🆕 最新更新 (2026-07-15 13:22)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [信维通信零溢价装入高端MLCC资产，定增窗口落子，利好反遭用脚投票｜并购一线](https://www.tmtpost.com/8066576.html)
+**发布时间**: 2026-07-15 20:29
+
+#### [16年维权拉锯、9.67亿天价索赔，凯赛不止为一纸技术秘密](https://www.tmtpost.com/8066524.html)
+**发布时间**: 2026-07-15 20:24
+
+#### [赛力斯，置身“界”内](https://www.tmtpost.com/8064695.html)
+**发布时间**: 2026-07-15 19:20
+
+#### [国际化最激进的上市公司出现了](https://www.tmtpost.com/8064907.html)
+**发布时间**: 2026-07-15 19:15
+
+#### [阶跃星辰“造手机”，印奇野心浮现](https://www.tmtpost.com/8064948.html)
+**发布时间**: 2026-07-15 19:04
+
+#### [昭衍新药预增涨停：创新药好不好，猴知道](https://www.tmtpost.com/8066196.html)
+**发布时间**: 2026-07-15 18:54
+
+#### [蜜雪要迎来一个新拐点了？](https://www.tmtpost.com/8066198.html)
+**发布时间**: 2026-07-15 18:54
+
+#### [多少基民拍大腿，二季度买“易中天”的都赚了](https://www.tmtpost.com/8066220.html)
+**发布时间**: 2026-07-15 18:48
+
+#### [字节入局物理AI，第二波“盛宴”开启？](https://www.tmtpost.com/8066225.html)
+**发布时间**: 2026-07-15 18:48
+
+#### [豹鲨，被澳洲人追着买的比亚迪要回国了](https://www.tmtpost.com/8066174.html)
+**发布时间**: 2026-07-15 18:48
+
+#### [进击的内蒙古大交通：路网成型之后 “枢纽协同”破局](https://www.tmtpost.com/8066064.html)
+**发布时间**: 2026-07-15 18:42
+
+#### [卖得越多，赚得越少？洗地机的「边际效益递减」困局](https://www.tmtpost.com/8066089.html)
+**发布时间**: 2026-07-15 18:42
+
+#### [四个月狂赚38亿，净利暴涨3020%，深圳存储黑马冲刺IPO](https://www.tmtpost.com/8066244.html)
+**发布时间**: 2026-07-15 18:42
+
+#### [前东家拆穿"磷化铟专家"：宿迁联盛50天跨界豪赌的技术罗生门](https://www.tmtpost.com/8066251.html)
+**发布时间**: 2026-07-15 18:41
+
+#### [越亚半导体：核心盈利主业零募投、新赛道激进扩产，偿债能力遭问询｜IPO观察](https://www.tmtpost.com/8065029.html)
+**发布时间**: 2026-07-15 18:29
+
+#### [人人想造Codex，但Agent正在接管的不只是你的代码 | ToB产业观察](https://www.tmtpost.com/8065779.html)
+**发布时间**: 2026-07-15 17:55
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [Leitra 诞生记：一次未完成的实践](https://sspai.com/post/112077)
+**发布时间**: 2026-07-15 17:00
+
+#### [具透 | iPadOS 27 首个公开测试版中你不容错过的 12 个新特性](https://sspai.com/post/112338)
+**发布时间**: 2026-07-15 15:00
+
+#### [角落新声｜从桌面「长」出来的创业空间，我靠这些好物「偷」一点清闲](https://sspai.com/post/112243)
+**发布时间**: 2026-07-15 11:00
+
+#### [派早报：Meta 被诉借助 AI 违规裁员、Google 被诉使用版权内容训练 Gemini 模型等](https://sspai.com/post/112334)
+**发布时间**: 2026-07-15 08:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [WAIC 最热闹的时刻，我们帮你筛掉噪音](https://www.infoq.cn/article/PvrHDsA3SK724SzGZXjr?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 16:00
+
+#### [Linux 基金会推出 Akrites 项目，防护核心开源软件免受 AI 网络威胁侵害](https://www.infoq.cn/article/WL9yUw7LJbBFTgzwXbVZ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 15:00
+
+#### [Datadog 借助 Claude 和 Cursor 完成测试驱动式生产环境迁移](https://www.infoq.cn/article/T4BhLjLfHYBC8rNfQVxe?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 13:00
+
+#### [WordPress 7.0 发布：内置 AI 基础能力、改进管理后台与设计套件](https://www.infoq.cn/article/VAUIReF3N4Z4SkcosaYN?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 11:29
+
+#### [当数据库的两端，都不再是人](https://www.infoq.cn/article/sDyPWhAWPHttlQJTUwq3?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 10:42
+
+#### [当编码不再是瓶颈：跨越 Coding Agent 规模化后的流程与成本双困局｜AICon深圳](https://www.infoq.cn/article/1JIiNLEgyJ2UEPwS825r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 10:00
+
+#### [Kubernetes AI 辅助项目维护方案：恪守人为责任优先原则](https://www.infoq.cn/article/mKDCAL0Tr0AaaXJlPIrE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-07-15 09:43
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 狂揽 21.7K Star！这个国产开源神器解救你裸奔的网站。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535351&idx=1&sn=be4428795c5045cb635ada67bbd57175)
+**发布时间**: 2026-07-15 14:22
 
 ---
 
