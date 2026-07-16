@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-07-15 13:20
+**最后更新时间**: 2026-07-16 00:04
+
+---
+
+## 🆕 最新更新 (2026-07-16 00:04)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Towards demystifying the creativity of diffusion models](https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/)
+**发布时间**: 2026-07-15 18:06
 
 ---
 
