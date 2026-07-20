@@ -1,7 +1,56 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-07-19 10:00
+**最后更新时间**: 2026-07-20 08:17
+
+---
+
+## 🆕 最新更新 (2026-07-20 08:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Oil prices climb as U.S. and Iran continue to fight](https://www.marketwatch.com/story/oil-prices-surge-stock-futures-dip-as-fighting-between-u-s-and-iran-intensifies-6fb37c79?mod=mw_rss_topstories)
+**发布时间**: 2026-07-20 08:07
+
+#### [World Cup-champion Spain just won $50 million — and the IRS gets a cut](https://www.marketwatch.com/story/the-world-cupwinning-side-will-make-50-million-and-the-irs-gets-a-cut-10f0780b?mod=mw_rss_topstories)
+**发布时间**: 2026-07-19 22:29
+
+#### [Can the ‘Magnificent Seven’ save a stock market that might be doomed without them?](https://www.marketwatch.com/story/can-the-magnificent-seven-save-a-stock-market-that-might-be-doomed-without-them-f88988f3?mod=mw_rss_topstories)
+**发布时间**: 2026-07-19 19:06
+
+#### [Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?](https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories)
+**发布时间**: 2026-07-19 15:43
+
+#### [Can former employers withhold money from your 401(k) when you’re laid off?](https://www.marketwatch.com/story/can-former-employers-withhold-money-from-your-401-k-when-youre-laid-off-5ceb4d4e?mod=mw_rss_topstories)
+**发布时间**: 2026-07-19 14:45
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China’s ‘national team’ buys shares worth $9bn to prop up market](https://www.ft.com/content/e6e3acd7-81a2-471c-9be1-a7f7558d639b?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 08:06
+
+#### [Lockheed to build cheaper Patriot missile to counter drone threat](https://www.ft.com/content/f567af77-801a-48b2-ba59-cf033f599701?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 07:54
+
+#### [Oil back above $90 as Iran hits tankers](https://www.ft.com/content/52e98fc4-32e3-4ed9-90fd-dcbba6188df5?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 07:11
+
+#### [Iran’s currency tumbles as renewed conflict threatens economy](https://www.ft.com/content/3b659fcd-77ce-4e63-aa46-8cb648735f13?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 04:00
+
+#### [Burnham must remember the first rule of government](https://www.ft.com/content/8e01440b-1a90-4ab2-a67e-fba7deee1ac8?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 04:00
+
+#### [Training AI models might be the chance for a workplace power play](https://www.ft.com/content/5ef2674d-0770-4713-8acf-c8b8f0995b5b?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 04:00
+
+#### [Morgan Stanley becomes Wall Street’s top bank for AI debt deals](https://www.ft.com/content/e2a3ea85-e4f2-4344-ac70-8410333e8749?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 04:00
+
+#### [Coffee drinkers turning to whole beans as prices soar, says Lavazza](https://www.ft.com/content/99bcda06-731d-49a8-bda2-ad4335bdca37?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 04:00
+
+#### [Spain outplay Messi’s Argentina to reach World Cup summit](https://www.ft.com/content/9f8b8f8d-cc2e-45a3-b4fb-3f57fb415c16?syn-25a6b1a6=1)
+**发布时间**: 2026-07-20 02:10
 
 ---
 

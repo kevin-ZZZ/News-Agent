@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 19 Jul 2026 09:58:00 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Jul 2026 10:00:55 GMT</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 08:13:00 GMT</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 08:17:29 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,91 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>看了20万小时「人类干活实录」，机器人悟了</title>
-      <link>https://www.qbitai.com/2026/07/454592.html</link>
-      <description>&lt;![CDATA[看了20万小时「人类干活实录」，机器人悟了]]&gt;</description>
-      <pubDate>Sun, 19 Jul 2026 08:32:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/454592.html</guid>
+      <title>2026-07-20日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-20/</link>
+      <description>&lt;![CDATA[2026-07-20日刊]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 10:51:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-20/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>光鉴科技发布具身智能视觉感知方案，为物理AI提供视觉感知基础</title>
+      <link>https://www.qbitai.com/2026/07/455438.html</link>
+      <description>&lt;![CDATA[光鉴科技发布具身智能视觉感知方案，为物理AI提供视觉感知基础]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 05:52:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455438.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>WAIC 2026｜智象未来发布全球首个无限时长内容创作智能体——vivago R1</title>
+      <link>https://www.qbitai.com/2026/07/455434.html</link>
+      <description>&lt;![CDATA[WAIC 2026｜智象未来发布全球首个无限时长内容创作智能体——vivago R1]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 05:43:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455434.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>「仿真派」落地真产线！苏度WAIC首秀，CEO韩铮：99%+成功率</title>
+      <link>https://www.qbitai.com/2026/07/455400.html</link>
+      <description>&lt;![CDATA[「仿真派」落地真产线！苏度WAIC首秀，CEO韩铮：99%+成功率]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 05:35:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455400.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>刚刚，机器人顶会RSS三项最佳论文出炉！708篇送审，仅8篇杀入决赛</title>
+      <link>https://www.qbitai.com/2026/07/455277.html</link>
+      <description>&lt;![CDATA[刚刚，机器人顶会RSS三项最佳论文出炉！708篇送审，仅8篇杀入决赛]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 04:54:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455277.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>GMI Cloud 携AI Cloud、MaaS、Agentbox等全栈智算解决方案亮相 WAIC 2026</title>
+      <link>https://www.qbitai.com/2026/07/455269.html</link>
+      <description>&lt;![CDATA[GMI Cloud 携AI Cloud、MaaS、Agentbox等全栈智算解决方案亮相 WAIC 2026]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 04:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455269.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>1.5B开源通用VLA模型，冲进具身智能第一梯队</title>
+      <link>https://www.qbitai.com/2026/07/455229.html</link>
+      <description>&lt;![CDATA[1.5B开源通用VLA模型，冲进具身智能第一梯队]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 03:36:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455229.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>Kimi K3上线48小时：模型爆火，GPU爆肝，会员停售</title>
+      <link>https://www.qbitai.com/2026/07/455179.html</link>
+      <description>&lt;![CDATA[Kimi K3上线48小时：模型爆火，GPU爆肝，会员停售]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 03:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455179.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>WAIC不筹量子重磅发布“量筹一号”——原子量子人工智能基座</title>
+      <link>https://www.qbitai.com/2026/07/455136.html</link>
+      <description>&lt;![CDATA[WAIC不筹量子重磅发布“量筹一号”——原子量子人工智能基座]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 03:15:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455136.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>蚂蚁集团、阿里云等正式加入PyTorch基金会，携手全球开源力量推动AI普惠</title>
+      <link>https://www.qbitai.com/2026/07/455130.html</link>
+      <description>&lt;![CDATA[蚂蚁集团、阿里云等正式加入PyTorch基金会，携手全球开源力量推动AI普惠]]&gt;</description>
+      <pubDate>Mon, 20 Jul 2026 03:05:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455130.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>冷门的哲学，成了“治”AI的热门</title>
+      <link>https://www.qbitai.com/2026/07/455041.html</link>
+      <description>&lt;![CDATA[冷门的哲学，成了“治”AI的热门]]&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 12:34:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/455041.html</guid>
       <category>Ai</category>
     </item>
   </channel>
