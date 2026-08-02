@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-02 07:38
+**最后更新时间**: 2026-08-02 10:07
+
+---
+
+## 🆕 最新更新 (2026-08-02 10:07)
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这 2 个 GitHub 上开源 AI 同事，在 GitHub 上火了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535704&idx=1&sn=623306f6ea42ed3afa182ecf9c5a3e3d)
+**发布时间**: 2026-08-02 10:13
 
 ---
 
