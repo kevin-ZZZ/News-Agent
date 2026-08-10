@@ -9151,6 +9151,180 @@
         "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247535880&idx=1&sn=56685f002d64ecd9a0823ca6864eb13c",
         "published_date": "Sun, 09 Aug 2026 16:42:00 GMT",
         "first_seen": "2026-08-09T23:39:12.757617"
+      },
+      "fbe54a2dea0df2f38b5092c045232670aa54f3b73c4fcbff7a285f066448ac12": {
+        "title": "Java 近期新闻：OpenJDK JEP、Jakarta EE、GraalVM、TornadoVM、Micronaut、Quarkus、JobRunr、Maven",
+        "link": "https://www.infoq.cn/article/ETcjHcLADeCISiah5RfU?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 10 Aug 2026 13:26:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902119"
+      },
+      "45f0e4b2d407a44f587bbfcff9059fccc947a96e829a0846593e445821eb7499": {
+        "title": "通过保持变更局部性实现演进式架构",
+        "link": "https://www.infoq.cn/article/ImsUql5IsVBqgcKp1aAh?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 10 Aug 2026 11:00:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902129"
+      },
+      "5eaa549d5cdddf91dbec69f39d84683b8a77172ad0103117dab6ac681d38aab2": {
+        "title": "智能互动 Agent 在快手商业场景的落地实践｜AICon深圳",
+        "link": "https://www.infoq.cn/article/KCw3ZLsEJcNYFegzd7dx?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 10 Aug 2026 10:00:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902130"
+      },
+      "6f3c92651bc5a788a074e32f5c51042e52c4d4ace17f0c376623c4a75058657e": {
+        "title": "微软发布搭载原生 Go 编译器的 TypeScript 7.0，构建速度提升 10 倍",
+        "link": "https://www.infoq.cn/article/ciQHX2larGoSlHspZ9VK?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 10 Aug 2026 09:57:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902132"
+      },
+      "d42eac9086237fa012b173588f3b345947481414a076e87b76ae73ecc9688b0b": {
+        "title": "宇树科技今日申购，或出一批90后千万富豪；字节拟训练超5万亿参数模型，张一鸣：反对蒸馏；数百管理层被裁难找下家，猎头：没那么多岗｜AI周报",
+        "link": "https://www.infoq.cn/article/xWWwhH3iPjwRakLOQiXQ?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 10 Aug 2026 09:31:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902133"
+      },
+      "c3f55bb3dc311da33fe56a44ed2c0a57ac92e25d06ff9b68d2824ee53a3028be": {
+        "title": "涨价30倍仍是最便宜的模型，DeepSeek可能有这个底气",
+        "link": "https://www.infoq.cn/article/FEcOI8kYoGuFYq39acEo?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 10 Aug 2026 09:25:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902135"
+      },
+      "495e0530de65eeea9b9340399abf24166604c3a2c45ac9e8dee72e191e3f65fd": {
+        "title": "Tighter U.S. Rules on New Robot Vacuums Force Chinese Makers to Reassess the Market",
+        "link": "https://www.tmtpost.com/8097395.html",
+        "published_date": "Mon, 10 Aug 2026 13:19:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902136"
+      },
+      "f87114c5c76650e8a3a184f9ab2f0623e0a2ce05998ff877bdafb0efecee6ae7": {
+        "title": "苹果测试长鑫存储，存储器市场在释放什么信号",
+        "link": "https://www.tmtpost.com/8097379.html",
+        "published_date": "Mon, 10 Aug 2026 13:05:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902137"
+      },
+      "93583f1f73361f604eb02e5b307787ec9fa62e8694e09df0e664382f218ffff1": {
+        "title": "“新新三样”火了：中国制造的三级跳，跳出了什么？",
+        "link": "https://www.tmtpost.com/8097093.html",
+        "published_date": "Mon, 10 Aug 2026 12:04:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902138"
+      },
+      "786383d92b53c91d7359e7ad9b021dd7aaefc63fdd9263bc386c332db6bd18d8": {
+        "title": "AI算力资本开支估算：3-4万亿美元算得出来，但兑现条件极其苛刻",
+        "link": "https://www.tmtpost.com/8097205.html",
+        "published_date": "Mon, 10 Aug 2026 12:03:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902139"
+      },
+      "9e8c0834aaab0b7c13734f2aa7a945ce126b8d3b0882df4023ad060ab6226b5f": {
+        "title": "10部门联合整治，药店的“好日子”到头了？",
+        "link": "https://www.tmtpost.com/8097212.html",
+        "published_date": "Mon, 10 Aug 2026 12:03:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902140"
+      },
+      "39fde08d124b45948757ed2d0750bc99e6978f966bbb8129a59417996df6dfd3": {
+        "title": "当“奥德修斯”遇见算法",
+        "link": "https://www.tmtpost.com/8097213.html",
+        "published_date": "Mon, 10 Aug 2026 11:43:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902142"
+      },
+      "f41ee0d8bb1f25609d39f8b235061f0c1d3d5fb2c029735d8687499036f4203e": {
+        "title": "宇树科技上市，具身智能开始第一次“清场”",
+        "link": "https://www.tmtpost.com/8097114.html",
+        "published_date": "Mon, 10 Aug 2026 10:59:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902143"
+      },
+      "b53d86b343f9dda6473c907a1488a92a4fae90c6aa42897f30ea5f7873108530": {
+        "title": "中国电建河北院中标后被取消资格，19亿盐穴储能项目变成“煮熟的鸭子飞了”",
+        "link": "https://www.tmtpost.com/8097088.html",
+        "published_date": "Mon, 10 Aug 2026 10:59:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902144"
+      },
+      "50dfd0b300daf36ce8fe20e1f38330c6f0ddeb6dd510670ae0e868733d1ff69d": {
+        "title": "消失十年的前首富突然回国，2.2亿抄底上海酒店",
+        "link": "https://www.tmtpost.com/8097208.html",
+        "published_date": "Mon, 10 Aug 2026 10:58:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902145"
+      },
+      "dbefe14491eb97244f6c7b95fae9eb4a637da54ea06176f7fd868dd943ed4e49": {
+        "title": "国产重组带状疱疹疫苗，跨不过GSK",
+        "link": "https://www.tmtpost.com/8097165.html",
+        "published_date": "Mon, 10 Aug 2026 10:55:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902146"
+      },
+      "2bd87958cb81a9d068a2b74c15ca8eee2f024fc3c2a1bcb1d54d0f17a386f0ed": {
+        "title": "巨头们竞逐AI办公，AI手机尴尬了",
+        "link": "https://www.tmtpost.com/8097113.html",
+        "published_date": "Mon, 10 Aug 2026 10:24:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902147"
+      },
+      "a386b00c1e8f6432bb25c6cebab56a05b0c7c41243b666d1794ba2c25e809e1f": {
+        "title": "黄金特许权公司及另外四只股票受到激进投资者关注",
+        "link": "https://www.tmtpost.com/8097193.html",
+        "published_date": "Mon, 10 Aug 2026 10:21:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902147"
+      },
+      "851c1a6eb2c713904c12b35c0923f3c9be90fa83f3a8f7056379dca8fd99480b": {
+        "title": "唯有技术立豪华，中国豪车市场开始换座次",
+        "link": "https://www.tmtpost.com/8095165.html",
+        "published_date": "Mon, 10 Aug 2026 10:17:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902148"
+      },
+      "a9e4993567ac85ff7b1d1478903e9a034aafa7625b86504c5d0774f21c1792bc": {
+        "title": "万店信仰，正在失灵",
+        "link": "https://www.tmtpost.com/8097110.html",
+        "published_date": "Mon, 10 Aug 2026 10:15:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902150"
+      },
+      "96ffd7d5957cc2acc43db4cbdefda8ba95af481ffc4afd17c26daa4eafabdb62": {
+        "title": "长沙徐州联手拿下“国字号”，能否实现1+1＞2？",
+        "link": "https://www.tmtpost.com/8097082.html",
+        "published_date": "Mon, 10 Aug 2026 10:12:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902150"
+      },
+      "651369141483ff6f96f6ef5c621bb7d09abb183b849eb95338e028b73c16efad": {
+        "title": "又一批减重药的倒下",
+        "link": "https://www.tmtpost.com/8097109.html",
+        "published_date": "Mon, 10 Aug 2026 10:07:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902152"
+      },
+      "94f4a530463319dd54fe4040e80f8be66a189e6f168386d79e387418b5bce9c1": {
+        "title": "OpenAI都撤了，AI浏览器只剩一条窄路",
+        "link": "https://www.tmtpost.com/8096969.html",
+        "published_date": "Mon, 10 Aug 2026 10:07:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902153"
+      },
+      "bcffa036ed79ff81d6c25e6cd558c7df43d3faa2e5e98a40efcac09cb3672bbb": {
+        "title": "广州首店背后，茶颜悦色的供应链账本",
+        "link": "https://www.tmtpost.com/8096967.html",
+        "published_date": "Mon, 10 Aug 2026 10:07:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902154"
+      },
+      "f0eca1f033d93d094d20a4c8f32a72ac4caf366e0722c81d5501531e54d2af82": {
+        "title": "当特朗普用多晶硅关税逼马斯克上轨道：AI+机器人全栈税的到期日",
+        "link": "https://www.tmtpost.com/8096937.html",
+        "published_date": "Mon, 10 Aug 2026 10:02:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902155"
+      },
+      "298e75553f0162179b62302b85d5ab273952f3b2e14ef4c373e5c17626e8daa3": {
+        "title": "大瓶啤酒，卖疯了",
+        "link": "https://www.tmtpost.com/8096927.html",
+        "published_date": "Mon, 10 Aug 2026 10:02:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902156"
+      },
+      "658023b58a2f0061304734b06be7acdb78b1afe219f8067ab0eddd8261874068": {
+        "title": "我与Pixel 10 Pro的生活：写在Pixel 11系列手机发布前夕",
+        "link": "https://sspai.com/post/113202",
+        "published_date": "Mon, 10 Aug 2026 11:00:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902157"
+      },
+      "2aef926881cbf3e2571202a1932bac71fba464fb6c3e0e107d3bb2b0585bb8f2": {
+        "title": "派早报：央视曝光酒店评级标识消费陷阱",
+        "link": "https://sspai.com/post/113268",
+        "published_date": "Mon, 10 Aug 2026 07:08:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902158"
+      },
+      "b5a8c00b9b8724589d9e74b3396d6b5fa244555ceb05282a9969e21fcd52b437": {
+        "title": "苹果被曝正在测试长鑫科技存储芯片；宇树科技今日申购，中一签或赚 20 万元；原字节跳动机器人一号位加入小米｜极客早知道",
+        "link": "http://www.geekpark.net/news/368581",
+        "published_date": "Mon, 10 Aug 2026 08:16:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.902159"
       }
     },
     "Finance": {
@@ -13941,6 +14115,48 @@
         "link": "https://www.ft.com/content/b25139e3-e748-407f-bc49-7389b3434455?syn-25a6b1a6=1",
         "published_date": "Sun, 09 Aug 2026 11:00:00 GMT",
         "first_seen": "2026-08-09T23:39:12.839182"
+      },
+      "57a6c6c3466760b7caf87f0ebebaaad0ef05abf8e17eafff793700d88c28ab12": {
+        "title": "China bypasses shipping chokepoints with ‘Ice Silk Road’ through Arctic",
+        "link": "https://www.ft.com/content/4456f475-f2c8-4cb7-8312-0c47c5f781b8?syn-25a6b1a6=1",
+        "published_date": "Mon, 10 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.948304"
+      },
+      "62d5420b2b52d1529a5d98b2510487539c1806231c07ea885977681657a01117": {
+        "title": "How the UAE won over Washington",
+        "link": "https://www.ft.com/content/ec5f7351-7aec-4fe1-80dc-b02c62045109?syn-25a6b1a6=1",
+        "published_date": "Mon, 10 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.948313"
+      },
+      "7bc18abcc27bcf5b1827d1b7b909ad6f484a4681b2214f36985a998522998dd3": {
+        "title": "Putin’s war machine scours the home front for recruits",
+        "link": "https://www.ft.com/content/45289802-848f-4fa6-9769-6971b4b69bcc?syn-25a6b1a6=1",
+        "published_date": "Mon, 10 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.948314"
+      },
+      "224387a9a8655ce6425640839b7953d7675a91669661b06c7f4c8e1e64800c9c": {
+        "title": "New York is having a summer for the ages",
+        "link": "https://www.ft.com/content/36d87659-ceb8-4dab-84fa-2f84ba3fbb53?syn-25a6b1a6=1",
+        "published_date": "Mon, 10 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.948316"
+      },
+      "bb70fba0b498f69b777b5439621c59b3ce193c5f9bc6827b75cbaf299e60432d": {
+        "title": "German economy minister warns AfD’s rise could deter investors",
+        "link": "https://www.ft.com/content/581a7c18-5deb-4cd4-b014-f4d275ba73d2?syn-25a6b1a6=1",
+        "published_date": "Mon, 10 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.948317"
+      },
+      "146222cf402b1ca36351b0d5f44f0c9236fa538711f604ee2a376d79f4a11789": {
+        "title": "Europe faces rocket launcher shortage by 2030, space agency chief warns",
+        "link": "https://www.ft.com/content/b3a4fbe1-1d0a-47a0-8a6a-148f2a482678?syn-25a6b1a6=1",
+        "published_date": "Mon, 10 Aug 2026 04:00:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.948318"
+      },
+      "ced411c35aa35cdb94b63f2ddd08d2d99f0510a6971b737d99cab045e17b3067": {
+        "title": "U.S. stock futures flat as investors await inflation data, grapple with more Iran uncertainty",
+        "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories",
+        "published_date": "Mon, 10 Aug 2026 03:02:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.948319"
       }
     },
     "Ai": {
@@ -15581,13 +15797,49 @@
         "link": "https://www.qbitai.com/2026/08/468913.html",
         "published_date": "Sun, 09 Aug 2026 09:16:00 GMT",
         "first_seen": "2026-08-09T23:39:12.650593"
+      },
+      "57259923daeec166aa6da392f647caebf7bb06a750ac0cbd2635027f0ae8b4a2": {
+        "title": "2026-08-10日刊",
+        "link": "https://hex2077.dev/docs/2026-08/2026-08-10/",
+        "published_date": "Mon, 10 Aug 2026 10:44:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.828256"
+      },
+      "1dfaa9155b9c989d699ec7279f86582a2e22dff3c316a99e72b130f40f51cf87": {
+        "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
+        "link": "https://www.qbitai.com/2026/08/469493.html",
+        "published_date": "Mon, 10 Aug 2026 03:24:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.828269"
+      },
+      "6851720b9b69e6f4eab1ce479165411635f07ae9d5f60748835772f605d0263d": {
+        "title": "苹果开测长鑫存储！百度、千问也一起挤进苹果供应链",
+        "link": "https://www.qbitai.com/2026/08/469475.html",
+        "published_date": "Mon, 10 Aug 2026 02:34:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.828271"
+      },
+      "f09096a5ed118006a251d6cc126eb9d27b2588eff7170b6aee8741ca425e8f6b": {
+        "title": "墨芯成立稀疏计算产学研联盟，以生态协同突破产业化壁垒",
+        "link": "https://www.qbitai.com/2026/08/469454.html",
+        "published_date": "Mon, 10 Aug 2026 02:25:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.828273"
+      },
+      "3d9b2692225d09d3419546cd5139126f137a2aa61b39258ef6fb953d60fc79ab": {
+        "title": "魔幻灵巧手：半年200亿热钱，3大路线，贵到几十万一只",
+        "link": "https://www.qbitai.com/2026/08/469213.html",
+        "published_date": "Mon, 10 Aug 2026 01:34:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.828275"
+      },
+      "7522b4b3ceb60ff8a011cfedfa4ddb66fbd710009db1bcb026865463aec8bd96": {
+        "title": "3B模型碾压英伟达谷歌后，Om AI端侧原生VLX模型：小参数实现物理世界精准感知",
+        "link": "https://www.qbitai.com/2026/08/469076.html",
+        "published_date": "Mon, 10 Aug 2026 01:12:00 GMT",
+        "first_seen": "2026-08-10T06:18:31.828276"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-08-09T23:39:12.757620",
-    "Finance": "2026-08-09T23:39:12.839184",
-    "Ai": "2026-08-09T23:39:12.650596"
+    "Technology": "2026-08-10T06:18:31.902161",
+    "Finance": "2026-08-10T06:18:31.948321",
+    "Ai": "2026-08-10T06:18:31.828278"
   }
 }
