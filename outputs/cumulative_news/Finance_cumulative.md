@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-08-20 05:39
+**最后更新时间**: 2026-08-20 08:51
+
+---
+
+## 🆕 最新更新 (2026-08-20 08:51)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Russian missile attack kills at least 13 in Kyiv](https://www.ft.com/content/736418a3-6d0d-4425-91df-9671db4c9b7d?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 07:52
+
+#### [Founder of collapsed Chinese property giant given life sentence](https://www.ft.com/content/895d78fc-ce60-4cb6-a8d5-db3ab01d1ebf?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 05:49
+
+#### [Moderna pins hopes on ‘game-changer’ for cancer vaccines](https://www.ft.com/content/cd52173f-5863-4996-93b2-c4adb81ad210?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 04:00
+
+#### [Barclays struggles to ‘retrain the dog’ on Wall Street](https://www.ft.com/content/5ca20d4b-1ec1-4e6d-8994-ba906c7cfd33?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 04:00
+
+#### [The container revolution is running out of room](https://www.ft.com/content/b88c3466-4525-4e16-b3fe-e10e713a2025?syn-25a6b1a6=1)
+**发布时间**: 2026-08-20 03:00
 
 ---
 
