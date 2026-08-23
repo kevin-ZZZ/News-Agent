@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 23 Aug 2026 05:36:00 GMT</pubDate>
-    <lastBuildDate>Sun, 23 Aug 2026 05:38:14 GMT</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 08:41:00 GMT</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:43:44 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,19 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-08-23日刊</title>
-      <link>https://hex2077.dev/docs/2026-08/2026-08-23/</link>
-      <description>&lt;![CDATA[2026-08-23日刊]]&gt;</description>
-      <pubDate>Sun, 23 Aug 2026 10:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://hex2077.dev/docs/2026-08/2026-08-23/</guid>
+      <title>你的第一个个人机器人开启预订！上纬新材拉开家庭机器人消费时代序幕</title>
+      <link>https://www.qbitai.com/2026/08/478017.html</link>
+      <description>&lt;![CDATA[你的第一个个人机器人开启预订！上纬新材拉开家庭机器人消费时代序幕]]&gt;</description>
+      <pubDate>Sun, 23 Aug 2026 07:17:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478017.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动</title>
+      <link>https://www.qbitai.com/2026/08/478007.html</link>
+      <description>&lt;![CDATA[从世界模型到现实生产力，无界动力深度参与WRC主论坛及多场同期活动]]&gt;</description>
+      <pubDate>Sun, 23 Aug 2026 07:12:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/08/478007.html</guid>
       <category>Ai</category>
     </item>
   </channel>
