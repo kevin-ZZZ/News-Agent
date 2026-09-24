@@ -1,7 +1,149 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-23 01:25
+**最后更新时间**: 2026-09-24 01:17
+
+---
+
+## 🆕 最新更新 (2026-09-24 01:17)
+### 📰 来源: [极客公园](https://www.geekpark.net/rss)
+
+#### [OpenAI CEO : AI 可能带来工业革命式动荡；Anthropic 宣布成立生命科学团队和实验室；腾讯 QClaw 宣布将停运](http://www.geekpark.net/news/370917)
+**发布时间**: 2026-09-24 09:13
+
+#### [剪映，杀入 AI 互动影游](http://www.geekpark.net/news/370883)
+**发布时间**: 2026-09-23 15:32
+
+#### [拆解下阿里的 AI 经济学，与它的下注](http://www.geekpark.net/news/370865)
+**发布时间**: 2026-09-23 14:02
+
+#### [从单卡到千卡互联，平头哥真武 V900 背后的 AI 算力变局](http://www.geekpark.net/news/370864)
+**发布时间**: 2026-09-23 13:55
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [管道赛道为AI输送能源，两大标的值得布局](https://www.tmtpost.com/8151341.html)
+**发布时间**: 2026-09-24 09:13
+
+#### [震荡市防御优选：11只专业人士看好的股息标的](https://www.tmtpost.com/8151338.html)
+**发布时间**: 2026-09-24 09:13
+
+#### [广州酒家：手握20亿存单仍募资7.74亿，行业下行期逆势扩产](https://www.tmtpost.com/8150961.html)
+**发布时间**: 2026-09-24 09:06
+
+#### [科瑞技术7.52亿定增：八成募资押注AI精密制造，营收占比仅17%](https://www.tmtpost.com/8150987.html)
+**发布时间**: 2026-09-24 09:04
+
+#### [未来20年医学走向哪里？Hinton、Levitt、Verdin等科学家提出六大前沿观点](https://www.tmtpost.com/8149015.html)
+**发布时间**: 2026-09-24 08:14
+
+#### [【钛晨报】“十五五”民政工作怎么干？四大重点任务，养老排在第一位；马斯克预测未来世界：20年后可能有1000亿台人形机器人；高瓴创投原合伙人严文韬正式入职DeepSeek](https://www.tmtpost.com/8151174.html)
+**发布时间**: 2026-09-24 07:20
+
+#### [把握AI数据中心热潮：Marvell及另外两只股票](https://www.tmtpost.com/8151200.html)
+**发布时间**: 2026-09-23 22:00
+
+#### [联发科“串场”，OPPO、vivo旗舰机换芯](https://www.tmtpost.com/8151065.html)
+**发布时间**: 2026-09-23 20:04
+
+#### [杀猪盘最贵的一道工序，AI 接手了](https://www.tmtpost.com/8151037.html)
+**发布时间**: 2026-09-23 19:45
+
+#### [1300万辆之后，福田汽车如何在欧洲扎根？](https://www.tmtpost.com/8150846.html)
+**发布时间**: 2026-09-23 19:35
+
+#### [企业数据太多，AI知道得太少：千问办公的上下文生意](https://www.tmtpost.com/8151019.html)
+**发布时间**: 2026-09-23 19:34
+
+#### [江淮汽车，成了资本眼中的新“太子”？](https://www.tmtpost.com/8150848.html)
+**发布时间**: 2026-09-23 18:38
+
+#### [9.9元的冷冻烘焙，正在重走“网红店”的老路？](https://www.tmtpost.com/8150764.html)
+**发布时间**: 2026-09-23 18:37
+
+#### [具身智能的转机和出清，哪个先来？](https://www.tmtpost.com/8149233.html)
+**发布时间**: 2026-09-23 18:35
+
+#### [2027，零售将进入自营化元年](https://www.tmtpost.com/8150812.html)
+**发布时间**: 2026-09-23 17:45
+
+#### [为什么突然之间，全是大环肽？](https://www.tmtpost.com/8150795.html)
+**发布时间**: 2026-09-23 17:45
+
+#### [AI制药的火，烧到了“产业中游”](https://www.tmtpost.com/8150777.html)
+**发布时间**: 2026-09-23 17:45
+
+#### [扁线电机渗透率五年间陡升，这轮产业突围竟由“卖铲人”主导](https://www.tmtpost.com/8149902.html)
+**发布时间**: 2026-09-23 17:45
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [利用 AI 搭建内部开发者平台](https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-24 09:05
+
+#### [从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限](https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 22:51
+
+#### [Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%](https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 22:41
+
+#### [人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷](https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 22:09
+
+#### [4096 张卡如何成为“一台计算机”？读懂华为的超节点布局](https://www.infoq.cn/article/uG1Um83JFgz2BVxWRYC9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 21:57
+
+#### [2026 年的云栖，阿里给 AI 行业递了一把新尺子](https://www.infoq.cn/article/zSPQbRwmS0AGpeTAhu9r?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 19:51
+
+#### [AI 改变跨平台开发取舍，Shopify 弃用 React Native，改用 Swift 和 Kotlin](https://www.infoq.cn/article/2FFH5EHF2SMusaYQhjlX?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 17:00
+
+#### [Dropbox 升级 Riviera 平台，支持 AI 工作负载](https://www.infoq.cn/article/jJAcfJO5e0ElPhIxwwxo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 15:47
+
+#### [智谱把 ZCode 开源了，然后呢？](https://www.infoq.cn/article/qEHi6k5ycwXUiasvfNKH?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 14:43
+
+#### [大语言模型：下一代 DSL 编写者](https://www.infoq.cn/article/fZRdzxQYpaTS2sQSqpVk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 13:22
+
+#### [Redis之父质疑Jev狂热！绝大多数开发者其实不需要它](https://www.infoq.cn/article/POjWf9P5wCYjQaB39jD6?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 12:08
+
+#### [Agents成新一代造王者，开发者正在快速失去技术决定权](https://www.infoq.cn/article/bakwHvI7PTqZr4Mh45xi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 12:03
+
+#### [数百亿向量怎么搜？Pinterest 抛弃“内存大户”HNSW，转向量化 SPANN](https://www.infoq.cn/article/rB0WGcG9iLIRH3xZojY5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 11:22
+
+#### [阿里 Open Code Review 登顶 GitHub Trending 周榜第一，作者李峥峰将在 QCon 上海站揭秘百万任务验证的 Agent 工程实践](https://www.infoq.cn/article/ekVtt3hgufw4wCvP7Zb5?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 10:05
+
+#### [飞猪 AI Native 交付大脑：用超级流程重构需求交付｜QCon上海](https://www.infoq.cn/article/lRSUjSdeaHMzTTycosyT?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 10:00
+
+#### [Cloudflare 测试通过缓存转码来减少存储需求](https://www.infoq.cn/article/izptFj6mjkyfd03qFHk9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-09-23 09:26
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [社区速递 159 | 便携卡片充电器与库克十五年改变生活的产品](https://sspai.com/post/114904)
+**发布时间**: 2026-09-23 17:02
+
+#### [具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性](https://sspai.com/post/114901)
+**发布时间**: 2026-09-23 15:30
+
+#### [Here Wallpaper：把喜欢的地图做成壁纸](https://sspai.com/post/114211)
+**发布时间**: 2026-09-23 10:19
+
+#### [Coast：用十年经验，给记账这件事一个「终点」](https://sspai.com/post/114479)
+**发布时间**: 2026-09-22 14:39
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [闲鱼卖到 100 元的 AI 复刻爆款视频神器，在 GitHub 上是开源的。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247537296&idx=1&sn=ede9fbcd7b585e64367911f0b637d86d)
+**发布时间**: 2026-09-23 10:57
 
 ---
 
